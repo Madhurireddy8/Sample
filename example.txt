@@ -2,4 +2,3 @@ Welcome
 
 This is github.
 
-Thank you.
